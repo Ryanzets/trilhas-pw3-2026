@@ -10,7 +10,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(135deg, hsl(204, 89%, 76%), #002fff);
+  background: linear-gradient(135deg, hsl(170, 98%, 50%), #2f00ff);
 }
 
 /* Container central */
@@ -74,5 +74,6 @@ body {
 }
 
 .login-box button:hover {
+  font-size: 17px;
   background: #2968c8;
 }
